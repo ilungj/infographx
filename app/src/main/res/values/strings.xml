@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Infographics</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="set_color_values">Set color values:</string>
+    <string name="color_hint_red">Red</string>
+    <string name="color_hint_green">Green</string>
+    <string name="color_hint_blue">Blue</string>
+</resources>
